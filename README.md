@@ -1,7 +1,7 @@
 # Cryptocurrency Dashboard
 A cryptocurrency analyser dashboard based on Streamlit.
 
-Preview here: https://dashboard.heroku.com/apps/cryptocdash/deploy/github
+Preview here: https://cryptocdash.herokuapp.com/
 
 # Installation
 Clone the repository
